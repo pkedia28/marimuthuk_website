@@ -2,7 +2,7 @@
 $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
-$to = 'harshit.kedia2015@vit.ac.in'; //marimuthume@gmail.com
+$to = 'harshit.kedia2015@vit.ac.in'; 
 $subject = 'Message in Marimuthuk website';
 $headers = 'From: contact@marimuthuk.com' . "\r\n" .
 'Bcc: harshit.kedia2015@vit.ac.in' . "\r\n" .  
